@@ -26,7 +26,7 @@ Al eliminarlas, las similitudes bajan a un rango de 0,00–0,32 pero pasan a ref
 
 En el otro extremo, 12 pares tienen similitud exactamente 0 (no comparten ninguna palabra de contenido). De ellos, 10 son pares Móvil–Eléctrico (por ejemplo doc02–doc04, doc02–doc05, doc01–doc09 o doc03–doc09); los otros dos son doc03–doc11 (Móvil–Ambos) y doc01–doc03, un par del mismo tema.
 
-### 2.3 Similitud media por combinación de temas
+### 2.3 Similitud media por combinación de temas.
 
 | Combinación | Nº de pares | Media (sin stop words) | Media (con stop words) |
 |---|---|---|---|
