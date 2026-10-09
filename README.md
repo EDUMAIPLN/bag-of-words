@@ -37,7 +37,8 @@ En el otro extremo, 12 pares tienen similitud exactamente 0 (no comparten ningun
 | Móvil – Móvil | 15 | 0,083 | 0,552 |
 | Eléctrico – Móvil | 24 | **0,024** | 0,464 |
 
-El mapa de calor `mapa_similitud.png` muestra la matriz completa.
+![Mapa de calor](/mapa_similitud.png)
+
 
 ## 3. Análisis
 
